@@ -134,4 +134,8 @@ sleep 1
 
 yay -S visual-paradigm
 
+yay -S visual-paradigm
+yay -S bluez
+yay -S blueman
+
 reboot 
