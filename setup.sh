@@ -1,4 +1,5 @@
- #!/bin/bash
+#!/bin/bash
+
 sudo pacman -S ghidra
 
 sudo pacman -S gdb
