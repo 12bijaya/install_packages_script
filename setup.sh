@@ -104,7 +104,7 @@ git clone https://github.com/xiv3r/Burpsuite-Professional.git
 cd -
 cd ~/Documents/tools/Burpsuite-Professional 
 rm -f install.sh update.sh 
-wget wget "https://www.dropbox.com/scl/fi/1ii5mfig9s6thv8qjjobu/install.sh?rlkey=pr47xtajsujpr3bz2j11a5lly&st=p6ypvbxv&dl=0"
+wget "https://www.dropbox.com/scl/fi/1ii5mfig9s6thv8qjjobu/install.sh?rlkey=pr47xtajsujpr3bz2j11a5lly&st=p6ypvbxv&dl=0"
 mv "install.sh?rlkey=pr47xtajsujpr3bz2j11a5lly&st=p6ypvbxv&dl=0" install.sh
 chmod +x install.sh 
 wget "https://www.dropbox.com/scl/fi/0t0esqmev1a6dlehqr5dw/update.sh?rlkey=p1vw4dl12h64dapkgckk7yz8g&st=x53yn8iv&dl=0"
